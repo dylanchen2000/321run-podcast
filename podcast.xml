@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>321跑步科学讲堂</title>
+    <description>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</description>
+    <language>zh-cn</language>
+    <link>https://dylanchen2000.github.io/321run-podcast</link>
+    <generator>321RUN Podcast Pipeline</generator>
+    <lastBuildDate>Sun, 05 Apr 2026 20:33:42 +0800</lastBuildDate>
+    <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>道俊教练</itunes:author>
+    <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>道俊教练</itunes:name>
+      <itunes:email>321run@163.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Sports">
+      <itunes:category text="Running"/>
+    </itunes:category>
+    <itunes:image href="https://dylanchen2000.github.io/321run-podcast/album_cover.png"/>
+    <image>
+      <url>https://dylanchen2000.github.io/321run-podcast/album_cover.png</url>
+      <title>321跑步科学讲堂</title>
+      <link>https://dylanchen2000.github.io/321run-podcast</link>
+    </image>
+    <item>
+      <title>EP001 | 马拉松赛前最后三周，为什么少练反而能跑更快？</title>
+      <description>《321跑步科学讲堂》
+
+马拉松赛前最后三周，为什么少练反而能跑更快？
+
+马拉松赛前最后三周，为什么&quot;少练&quot;反而能跑更快？每一个认真备战马拉松的跑者，大概都经历过这样的纠结：赛前最后几周，明明感觉自己还可以再练练，教练却说要&quot;减量&quot;。少跑一点，真的不会掉状态吗？答案是：不仅不会掉，科学的减量（Taper）策略反而是你突破PB的关键一环。今天我们就来聊聊，赛前减量到底在减什么、怎么减、减多少。一、你的身体需要一个&quot;超量恢复&quot;的窗口 ♂很多跑者对训练有一个朴素的理解：练得越多，跑得越快。这在备赛周期的前中段基本成立——你需要足够的跑量来建立有氧基础、提升乳酸阈值、强化肌肉骨骼系统。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+马拉松赛前最后三周，为什么少练反而能跑更快？
+
+马拉松赛前最后三周，为什么&quot;少练&quot;反而能跑更快？每一个认真备战马拉松的跑者，大概都经历过这样的纠结：赛前最后几周，明明感觉自己还可以再练练，教练却说要&quot;减量&quot;。少跑一点，真的不会掉状态吗？答案是：不仅不会掉，科学的减量（Taper）策略反而是你突破PB的关键一环。今天我们就来聊聊，赛前减量到底在减什么、怎么减、减多少。一、你的身体需要一个&quot;超量恢复&quot;的窗口 ♂很多跑者对训练有一个朴素的理解：练得越多，跑得越快。这在备赛周期的前中段基本成立——你需要足够的跑量来建立有氧基础、提升乳酸阈值、强化肌肉骨骼系统。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Sun, 05 Apr 2026 09:34:57 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep001.mp3" length="12307680" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep001</guid>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
