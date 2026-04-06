@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 08:48:57 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 14:33:49 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -155,7 +155,7 @@
       <itunes:author>道俊教练</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <pubDate>Sun, 05 Apr 2026 09:34:57 +0800</pubDate>
-      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep001.mp3" length="12307680" type="audio/mpeg"/>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep001.mp3" length="0" type="audio/mpeg"/>
       <guid isPermaLink="false">321run-ep001</guid>
       <itunes:episode>1</itunes:episode>
     </item>
