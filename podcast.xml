@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Sun, 05 Apr 2026 20:36:13 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 08:48:57 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,114 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP005 | 从场地之王到公路传奇：贝克勒的马拉松转型，给业余跑者哪些启示？</title>
+      <description>《321跑步科学讲堂》
+
+从场地之王到公路传奇：贝克勒的马拉松转型，给业余跑者哪些启示？
+
+一个拥有5000米和10000米世界纪录的人，转去跑马拉松，应该是降维打击吧？很多人最初都这么想。但贝克勒的马拉松之路，远没有外界想象得那么顺利。伤病反复、退赛、被质疑&quot;跑不了马拉松&quot;——这位场地之王用了好几年时间，才真正找到公路赛场的节奏。他的转型经历，恰恰回答了一个困扰无数跑者的核心问题：速度能力强，就一定能跑好马拉松吗？答案是：不一定，但方法对了，速度就是最大的武器。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+从场地之王到公路传奇：贝克勒的马拉松转型，给业余跑者哪些启示？
+
+一个拥有5000米和10000米世界纪录的人，转去跑马拉松，应该是降维打击吧？很多人最初都这么想。但贝克勒的马拉松之路，远没有外界想象得那么顺利。伤病反复、退赛、被质疑&quot;跑不了马拉松&quot;——这位场地之王用了好几年时间，才真正找到公路赛场的节奏。他的转型经历，恰恰回答了一个困扰无数跑者的核心问题：速度能力强，就一定能跑好马拉松吗？答案是：不一定，但方法对了，速度就是最大的武器。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Mon, 06 Apr 2026 08:47:20 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep005.mp3" length="5667840" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep005</guid>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>EP004 | 2024前沿研究：训练单调性才是跑者停滞不前的隐形杀手</title>
+      <description>《321跑步科学讲堂》
+
+2024前沿研究：训练单调性才是跑者停滞不前的隐形杀手
+
+跑步三年，配速从530到430，PB一路在刷新。但最近半年，你发现自己越来越不想出门跑步了——闹钟响了翻个身继续睡，训练计划打开又关上，甚至站在起跑线上都觉得索然无味。成绩没有明显退步，身体也没有受伤，但就是提不起劲。这不是懒，也不是你不够热爱跑步。2024年多项运动科学领域的研究正在揭示一个被长期低估的问题：训练单调性（training monotony）可能才是让跑者陷入长期停滞和心理倦怠的核心推手。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+2024前沿研究：训练单调性才是跑者停滞不前的隐形杀手
+
+跑步三年，配速从530到430，PB一路在刷新。但最近半年，你发现自己越来越不想出门跑步了——闹钟响了翻个身继续睡，训练计划打开又关上，甚至站在起跑线上都觉得索然无味。成绩没有明显退步，身体也没有受伤，但就是提不起劲。这不是懒，也不是你不够热爱跑步。2024年多项运动科学领域的研究正在揭示一个被长期低估的问题：训练单调性（training monotony）可能才是让跑者陷入长期停滞和心理倦怠的核心推手。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Mon, 06 Apr 2026 08:42:35 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep004.mp3" length="13683360" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep004</guid>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>EP003 | 每次跑完都觉得练到了，为什么成绩就是不涨？问题可能出在你的强度分配上</title>
+      <description>《321跑步科学讲堂》
+
+每次跑完都觉得练到了，为什么成绩就是不涨？问题可能出在你的强度分配上
+
+跑步圈里有一种常见的困惑：每周跑量不低，长距离也没落下，间歇训练也在做，但半马、全马的成绩就像被钉住了一样，半年甚至一年都纹丝不动。更让人沮丧的是，每次训练结束都觉得&quot;练到了&quot;——心率飙得够高，配速也不慢，出了一身汗，体感疲劳感十足。但到了比赛日，后半程依然掉速，完赛成绩和预期差距明显。这个问题，很多跑者归因于&quot;天赋不够&quot;或&quot;跑量不够&quot;。但越来越多的运动科学研究指向了一个更关键、也更容易被忽视的变量——训练强度的分配比例。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+每次跑完都觉得练到了，为什么成绩就是不涨？问题可能出在你的强度分配上
+
+跑步圈里有一种常见的困惑：每周跑量不低，长距离也没落下，间歇训练也在做，但半马、全马的成绩就像被钉住了一样，半年甚至一年都纹丝不动。更让人沮丧的是，每次训练结束都觉得&quot;练到了&quot;——心率飙得够高，配速也不慢，出了一身汗，体感疲劳感十足。但到了比赛日，后半程依然掉速，完赛成绩和预期差距明显。这个问题，很多跑者归因于&quot;天赋不够&quot;或&quot;跑量不够&quot;。但越来越多的运动科学研究指向了一个更关键、也更容易被忽视的变量——训练强度的分配比例。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Mon, 06 Apr 2026 08:38:09 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep003.mp3" length="13898400" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep003</guid>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>EP002 | 晨起落地第一步就疼？跑者足底筋膜炎的完整防治手册</title>
+      <description>《321跑步科学讲堂》
+
+晨起落地第一步就疼？跑者足底筋膜炎的完整防治手册
+
+每个跑者大概都经历过这样的时刻：早晨起床，脚刚踩到地面，一阵尖锐的刺痛从脚跟传来，像踩到了一颗隐形的钉子。你忍着痛走了几步，疼痛似乎缓解了，于是告诉自己&quot;没事&quot;。但第二天，同样的剧情再次上演。这就是足底筋膜炎最典型的信号。它是跑者最常见的足部损伤之一，据统计，大约10%的跑者在运动生涯中会遭遇这个问题。更棘手的是，很多人在疼痛初期选择硬扛，结果从急性炎症拖成了慢性顽疾，康复周期从几周变成了几个月甚至更久。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+晨起落地第一步就疼？跑者足底筋膜炎的完整防治手册
+
+每个跑者大概都经历过这样的时刻：早晨起床，脚刚踩到地面，一阵尖锐的刺痛从脚跟传来，像踩到了一颗隐形的钉子。你忍着痛走了几步，疼痛似乎缓解了，于是告诉自己&quot;没事&quot;。但第二天，同样的剧情再次上演。这就是足底筋膜炎最典型的信号。它是跑者最常见的足部损伤之一，据统计，大约10%的跑者在运动生涯中会遭遇这个问题。更棘手的是，很多人在疼痛初期选择硬扛，结果从急性炎症拖成了慢性顽疾，康复周期从几周变成了几个月甚至更久。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Mon, 06 Apr 2026 08:33:43 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep002.mp3" length="15638400" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep002</guid>
+      <itunes:episode>2</itunes:episode>
+    </item>
     <item>
       <title>EP001 | 马拉松赛前最后三周，为什么少练反而能跑更快？</title>
       <description>《321跑步科学讲堂》
