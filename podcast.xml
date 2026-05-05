@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 08:02:02 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 08:02:20 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP005 | 1:59:30！人类正式跑进两小时，伦敦马拉松见证历史</title>
+      <description>《321跑步科学讲堂》
+
+1:59:30！人类正式跑进两小时，伦敦马拉松见证历史
+
+1:59:30！人类正式跑进两小时，伦敦马拉松见证历史2026年4月26日，伦敦。肯尼亚人萨韦（Sabastian Sawe）以1小时59分30秒冲过白金汉宫前的终点线，成为人类历史上第一个在正式马拉松比赛中跑进两小时的人。11秒之后，埃塞俄比亚人凯杰尔查（Yomif Kejelcha）以1:59:41紧随其后。同一场比赛，两个人，同时破二。这不是实验室条件下的挑战赛，不是特制赛道上的独角戏——这是59000人同场竞技的伦敦马拉松。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+1:59:30！人类正式跑进两小时，伦敦马拉松见证历史
+
+1:59:30！人类正式跑进两小时，伦敦马拉松见证历史2026年4月26日，伦敦。肯尼亚人萨韦（Sabastian Sawe）以1小时59分30秒冲过白金汉宫前的终点线，成为人类历史上第一个在正式马拉松比赛中跑进两小时的人。11秒之后，埃塞俄比亚人凯杰尔查（Yomif Kejelcha）以1:59:41紧随其后。同一场比赛，两个人，同时破二。这不是实验室条件下的挑战赛，不是特制赛道上的独角戏——这是59000人同场竞技的伦敦马拉松。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 05 May 2026 08:02:15 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep005.mp3" length="11223840" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep005</guid>
+      <itunes:episode>5</itunes:episode>
+    </item>
     <item>
       <title>EP004 | 1:59:30！人类正式跑进两小时，伦敦马拉松见证历史</title>
       <description>《321跑步科学讲堂》
