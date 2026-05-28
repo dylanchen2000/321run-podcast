@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 26 May 2026 08:03:50 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 08:02:27 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP008 | 跑量越大体重越不降？你可能掉进了&quot;跑步减脂&quot;最隐蔽的陷阱</title>
+      <description>《321跑步科学讲堂》
+
+跑量越大体重越不降？你可能掉进了&quot;跑步减脂&quot;最隐蔽的陷阱
+
+跑量越大体重越不降？你可能掉进了&quot;跑步减脂&quot;最隐蔽的陷阱一个让很多跑者困惑的现象：刚开始跑步时体重掉得很快，但跑了半年甚至一年之后，月跑量从100公里涨到了200公里，体重却纹丝不动，甚至悄悄回升了一两公斤。这不是个例。在跑步社群里，这类困惑出现的频率远比你想象的高。问题出在哪？不是你不够努力，而是你的身体在适应，而你的策略没有跟着变。一、你的身体比你聪明：代谢适应的真相人体是一台极其精密的节能机器。当你长期进行同一强度、同一模式的有氧跑步时，身体会逐渐优化能量使用效率——用更少的热量完成同样的距离。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+跑量越大体重越不降？你可能掉进了&quot;跑步减脂&quot;最隐蔽的陷阱
+
+跑量越大体重越不降？你可能掉进了&quot;跑步减脂&quot;最隐蔽的陷阱一个让很多跑者困惑的现象：刚开始跑步时体重掉得很快，但跑了半年甚至一年之后，月跑量从100公里涨到了200公里，体重却纹丝不动，甚至悄悄回升了一两公斤。这不是个例。在跑步社群里，这类困惑出现的频率远比你想象的高。问题出在哪？不是你不够努力，而是你的身体在适应，而你的策略没有跟着变。一、你的身体比你聪明：代谢适应的真相人体是一台极其精密的节能机器。当你长期进行同一强度、同一模式的有氧跑步时，身体会逐渐优化能量使用效率——用更少的热量完成同样的距离。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 28 May 2026 08:02:21 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep008.mp3" length="10648320" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep008</guid>
+      <itunes:episode>8</itunes:episode>
+    </item>
     <item>
       <title>EP007 | 小腿前侧那个&quot;说不清的隐痛&quot;：它可能不是肌肉疲劳，而是骨头在求救</title>
       <description>《321跑步科学讲堂》
