@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 28 May 2026 08:02:27 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 08:03:30 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP009 | 2024年三篇顶刊论文锁定同一个靶点：跑步正在从分子层面重写你的衰老时钟</title>
+      <description>《321跑步科学讲堂》
+
+2024年三篇顶刊论文锁定同一个靶点：跑步正在从分子层面重写你的衰老时钟
+
+2024年三篇顶刊论文锁定同一个靶点：跑步正在从分子层面重写你的衰老时钟今年以来，衰老生物学领域出现了一个值得跑者关注的动向——多个独立研究团队几乎同时将目光聚焦在同一个问题上：规律性有氧运动，尤其是跑步，究竟能在多大程度上逆转细胞层面的衰老进程？答案比我们此前预想的更为乐观。一、端粒：你身体里那根不断变短的&quot;引信&quot;要理解跑步如何对抗衰老，首先需要认识一个关键结构——端粒。端粒位于每条染色体的末端，功能类似鞋带头上的塑料保护套。每一次细胞分裂，端粒都会缩短一截。当它短到无法再保护染色体时，细胞就进入衰老状态或启动凋亡程序。端粒长度因此被视为细胞&quot;生物学年龄&quot;的核心指标之一。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+2024年三篇顶刊论文锁定同一个靶点：跑步正在从分子层面重写你的衰老时钟
+
+2024年三篇顶刊论文锁定同一个靶点：跑步正在从分子层面重写你的衰老时钟今年以来，衰老生物学领域出现了一个值得跑者关注的动向——多个独立研究团队几乎同时将目光聚焦在同一个问题上：规律性有氧运动，尤其是跑步，究竟能在多大程度上逆转细胞层面的衰老进程？答案比我们此前预想的更为乐观。一、端粒：你身体里那根不断变短的&quot;引信&quot;要理解跑步如何对抗衰老，首先需要认识一个关键结构——端粒。端粒位于每条染色体的末端，功能类似鞋带头上的塑料保护套。每一次细胞分裂，端粒都会缩短一截。当它短到无法再保护染色体时，细胞就进入衰老状态或启动凋亡程序。端粒长度因此被视为细胞&quot;生物学年龄&quot;的核心指标之一。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 02 Jun 2026 08:03:19 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep009.mp3" length="13460160" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep009</guid>
+      <itunes:episode>9</itunes:episode>
+    </item>
     <item>
       <title>EP008 | 跑量越大体重越不降？你可能掉进了&quot;跑步减脂&quot;最隐蔽的陷阱</title>
       <description>《321跑步科学讲堂》
