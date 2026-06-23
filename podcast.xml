@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 08:02:37 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 08:03:28 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP013 | 小腿那个&quot;跑两步就疼、停下来就好&quot;的地方，可能正在悄悄裂开</title>
+      <description>《321跑步科学讲堂》
+
+小腿那个&quot;跑两步就疼、停下来就好&quot;的地方，可能正在悄悄裂开
+
+小腿那个&quot;跑两步就疼、停下来就好&quot;的地方，可能正在悄悄裂开有一种痛，跑步的人几乎都遇到过：小腿某个固定位置，跑起来隐隐作痛，停下来休息几分钟又好了，第二天走路完全没感觉。于是你告诉自己&quot;没事，可能是肌肉紧了&quot;，然后继续训练。三周后，那个位置开始走路也疼了。这是应力性骨折最典型的早期信号。而绝大多数跑者错过最佳干预窗口，恰恰是因为这种疼痛太&quot;温和&quot;了——它不像崴脚那样让你当场倒地，而是用一种几乎可以忽略的方式，一点点突破骨骼的承受极限。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+小腿那个&quot;跑两步就疼、停下来就好&quot;的地方，可能正在悄悄裂开
+
+小腿那个&quot;跑两步就疼、停下来就好&quot;的地方，可能正在悄悄裂开有一种痛，跑步的人几乎都遇到过：小腿某个固定位置，跑起来隐隐作痛，停下来休息几分钟又好了，第二天走路完全没感觉。于是你告诉自己&quot;没事，可能是肌肉紧了&quot;，然后继续训练。三周后，那个位置开始走路也疼了。这是应力性骨折最典型的早期信号。而绝大多数跑者错过最佳干预窗口，恰恰是因为这种疼痛太&quot;温和&quot;了——它不像崴脚那样让你当场倒地，而是用一种几乎可以忽略的方式，一点点突破骨骼的承受极限。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 23 Jun 2026 08:03:21 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep013.mp3" length="16014720" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep013</guid>
+      <itunes:episode>13</itunes:episode>
+    </item>
     <item>
       <title>EP012 | 2024年三篇顶刊论文锁定同一个靶点：跑步正在从分子层面重写你的衰老时钟</title>
       <description>《321跑步科学讲堂》
