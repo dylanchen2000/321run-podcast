@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 08:03:28 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:03:14 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP014 | 膝盖外侧那根&quot;钢丝绳&quot;突然疼了：一个跑者从确诊到回归赛道的180天</title>
+      <description>《321跑步科学讲堂》
+
+膝盖外侧那根&quot;钢丝绳&quot;突然疼了：一个跑者从确诊到回归赛道的180天
+
+膝盖外侧那根&quot;钢丝绳&quot;突然疼了：一个跑者从确诊到回归赛道的180天去年秋天，一位跑龄三年、月跑量稳定在200公里左右的业余跑者，在备战一场全马的过程中遭遇了一个典型困境：周跑量从200公里突然提升到260公里后的第三周，右膝外侧出现了一种奇怪的疼痛——跑到第5公里左右开始隐隐作痛，停下来走几步又消失，再跑又出现。他以为是肌肉疲劳，继续咬牙训练了两周。结果疼痛从&quot;跑时才有&quot;变成了&quot;下楼梯也有&quot;，最终不得不彻底停跑。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+膝盖外侧那根&quot;钢丝绳&quot;突然疼了：一个跑者从确诊到回归赛道的180天
+
+膝盖外侧那根&quot;钢丝绳&quot;突然疼了：一个跑者从确诊到回归赛道的180天去年秋天，一位跑龄三年、月跑量稳定在200公里左右的业余跑者，在备战一场全马的过程中遭遇了一个典型困境：周跑量从200公里突然提升到260公里后的第三周，右膝外侧出现了一种奇怪的疼痛——跑到第5公里左右开始隐隐作痛，停下来走几步又消失，再跑又出现。他以为是肌肉疲劳，继续咬牙训练了两周。结果疼痛从&quot;跑时才有&quot;变成了&quot;下楼梯也有&quot;，最终不得不彻底停跑。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 25 Jun 2026 08:02:57 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep014.mp3" length="14086560" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep014</guid>
+      <itunes:episode>14</itunes:episode>
+    </item>
     <item>
       <title>EP013 | 小腿那个&quot;跑两步就疼、停下来就好&quot;的地方，可能正在悄悄裂开</title>
       <description>《321跑步科学讲堂》
