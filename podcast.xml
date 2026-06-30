@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 08:03:14 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:02:41 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP015 | 他跑完波士顿马拉松后拉了三天肚子，答案藏在肠道里那群&quot;看不见的队友&quot;身上</title>
+      <description>《321跑步科学讲堂》
+
+他跑完波士顿马拉松后拉了三天肚子，答案藏在肠道里那群&quot;看不见的队友&quot;身上
+
+他跑完波士顿马拉松后拉了三天肚子，答案藏在肠道里那群&quot;看不见的队友&quot;身上2019年波士顿马拉松赛后，哈佛大学Wyss研究所的研究团队做了一件看似不太体面的事情——他们收集了15名精英跑者赛前和赛后的粪便样本。这不是恶作剧。研究人员想搞清楚一个困扰无数跑者的问题：为什么高强度比赛之后，有些人会连续几天腹泻、腹胀、消化紊乱？答案不在胃里，不在食物里，而在肠道深处那片由数万亿微生物组成的&quot;隐形生态系统&quot;中。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+他跑完波士顿马拉松后拉了三天肚子，答案藏在肠道里那群&quot;看不见的队友&quot;身上
+
+他跑完波士顿马拉松后拉了三天肚子，答案藏在肠道里那群&quot;看不见的队友&quot;身上2019年波士顿马拉松赛后，哈佛大学Wyss研究所的研究团队做了一件看似不太体面的事情——他们收集了15名精英跑者赛前和赛后的粪便样本。这不是恶作剧。研究人员想搞清楚一个困扰无数跑者的问题：为什么高强度比赛之后，有些人会连续几天腹泻、腹胀、消化紊乱？答案不在胃里，不在食物里，而在肠道深处那片由数万亿微生物组成的&quot;隐形生态系统&quot;中。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 30 Jun 2026 08:02:32 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep015.mp3" length="12678720" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep015</guid>
+      <itunes:episode>15</itunes:episode>
+    </item>
     <item>
       <title>EP014 | 膝盖外侧那根&quot;钢丝绳&quot;突然疼了：一个跑者从确诊到回归赛道的180天</title>
       <description>《321跑步科学讲堂》
