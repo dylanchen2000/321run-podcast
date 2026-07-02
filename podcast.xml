@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 08:02:41 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:03:00 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP016 | 2024年三篇顶刊论文揭示：极端高温下的耐力表现，瓶颈不在心肺而在大脑</title>
+      <description>《321跑步科学讲堂》
+
+2024年三篇顶刊论文揭示：极端高温下的耐力表现，瓶颈不在心肺而在大脑
+
+2024年三篇顶刊论文揭示：极端高温下的耐力表现，瓶颈不在心肺而在大脑戈壁滩地表温度超过60摄氏度的正午，一个训练有素的超马跑者心率并未飙升至极限，配速却开始不可逆地下滑。传统解释会指向脱水、糖原耗竭或肌肉疲劳，但2024年发表的几项前沿研究正在改写这个叙事——限制你在极端热环境中继续奔跑的，可能首先是中枢神经系统的&quot;主动刹车&quot;。对于正在备战戈壁挑战赛或类似极限耐力赛事的跑者来说，这意味着训练策略需要一次认知层面的升级。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+2024年三篇顶刊论文揭示：极端高温下的耐力表现，瓶颈不在心肺而在大脑
+
+2024年三篇顶刊论文揭示：极端高温下的耐力表现，瓶颈不在心肺而在大脑戈壁滩地表温度超过60摄氏度的正午，一个训练有素的超马跑者心率并未飙升至极限，配速却开始不可逆地下滑。传统解释会指向脱水、糖原耗竭或肌肉疲劳，但2024年发表的几项前沿研究正在改写这个叙事——限制你在极端热环境中继续奔跑的，可能首先是中枢神经系统的&quot;主动刹车&quot;。对于正在备战戈壁挑战赛或类似极限耐力赛事的跑者来说，这意味着训练策略需要一次认知层面的升级。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 02 Jul 2026 08:02:49 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep016.mp3" length="12854880" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep016</guid>
+      <itunes:episode>16</itunes:episode>
+    </item>
     <item>
       <title>EP015 | 他跑完波士顿马拉松后拉了三天肚子，答案藏在肠道里那群&quot;看不见的队友&quot;身上</title>
       <description>《321跑步科学讲堂》
