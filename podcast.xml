@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 08:03:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 08:02:53 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP017 | 你的VO2max数值停滞三个月了，问题可能出在训练刺激的&quot;配方&quot;上</title>
+      <description>《321跑步科学讲堂》
+
+你的VO2max数值停滞三个月了，问题可能出在训练刺激的&quot;配方&quot;上
+
+你的VO2max数值停滞三个月了，问题可能出在训练刺激的&quot;配方&quot;上一个困扰许多跑者的真实场景：手表上的最大摄氧量数值，刚开始跑步那半年蹭蹭往上涨，从38涨到45，从45涨到50。然后，它就不动了。你加了跑量，没用。你跑得更勤快，还是没用。甚至有人把周跑量从50公里硬拉到80公里，VO2max纹丝不动，膝盖倒是先有了反应。这不是个例。研究人员在观察大量业余跑者的训练数据后发现，VO2max的提升在初期较为迅速，但进入平台期后，单纯增加有氧跑量对突破瓶颈的效果极为有限。问题的核心不在于&quot;练得够不够多&quot;，而在于&quot;刺激的类型对不对&quot;。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+你的VO2max数值停滞三个月了，问题可能出在训练刺激的&quot;配方&quot;上
+
+你的VO2max数值停滞三个月了，问题可能出在训练刺激的&quot;配方&quot;上一个困扰许多跑者的真实场景：手表上的最大摄氧量数值，刚开始跑步那半年蹭蹭往上涨，从38涨到45，从45涨到50。然后，它就不动了。你加了跑量，没用。你跑得更勤快，还是没用。甚至有人把周跑量从50公里硬拉到80公里，VO2max纹丝不动，膝盖倒是先有了反应。这不是个例。研究人员在观察大量业余跑者的训练数据后发现，VO2max的提升在初期较为迅速，但进入平台期后，单纯增加有氧跑量对突破瓶颈的效果极为有限。问题的核心不在于&quot;练得够不够多&quot;，而在于&quot;刺激的类型对不对&quot;。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 07 Jul 2026 08:02:47 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep017.mp3" length="14442240" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep017</guid>
+      <itunes:episode>17</itunes:episode>
+    </item>
     <item>
       <title>EP016 | 2024年三篇顶刊论文揭示：极端高温下的耐力表现，瓶颈不在心肺而在大脑</title>
       <description>《321跑步科学讲堂》
