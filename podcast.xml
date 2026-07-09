@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 08:02:53 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 08:02:53 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP018 | 跑完一场大课表浑身酸痛三天缓不过来，问题可能不在训练量而在你的餐盘里</title>
+      <description>《321跑步科学讲堂》
+
+跑完一场大课表浑身酸痛三天缓不过来，问题可能不在训练量而在你的餐盘里
+
+跑完一场大课表浑身酸痛三天缓不过来，问题可能不在训练量而在你的餐盘里一个困扰许多跑者的现实问题你一定经历过这样的场景：周末完成一次30公里长距离拉练，或者跑完一组高强度间歇课表，接下来两三天腿像灌了铅，楼梯都不想爬。你以为这是训练量太大了，于是减量、休息，但下一次大课表之后，同样的疲惫感又准时报到。问题真的出在跑量上吗？很多时候，答案藏在训练结束后你做的——或者没做的——那些事情里。具体来说，是你的营养恢复策略出了问题。运动科学领域近年的研究持续指向一个结论：训练的效果不仅取决于你跑了什么，还取决于你跑完之后吃了什么、什么时候吃、怎么吃。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+跑完一场大课表浑身酸痛三天缓不过来，问题可能不在训练量而在你的餐盘里
+
+跑完一场大课表浑身酸痛三天缓不过来，问题可能不在训练量而在你的餐盘里一个困扰许多跑者的现实问题你一定经历过这样的场景：周末完成一次30公里长距离拉练，或者跑完一组高强度间歇课表，接下来两三天腿像灌了铅，楼梯都不想爬。你以为这是训练量太大了，于是减量、休息，但下一次大课表之后，同样的疲惫感又准时报到。问题真的出在跑量上吗？很多时候，答案藏在训练结束后你做的——或者没做的——那些事情里。具体来说，是你的营养恢复策略出了问题。运动科学领域近年的研究持续指向一个结论：训练的效果不仅取决于你跑了什么，还取决于你跑完之后吃了什么、什么时候吃、怎么吃。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 09 Jul 2026 08:02:47 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep018.mp3" length="12089280" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep018</guid>
+      <itunes:episode>18</itunes:episode>
+    </item>
     <item>
       <title>EP017 | 你的VO2max数值停滞三个月了，问题可能出在训练刺激的&quot;配方&quot;上</title>
       <description>《321跑步科学讲堂》
