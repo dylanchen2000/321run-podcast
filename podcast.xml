@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 08:02:53 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:26:49 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP019 | 从报名到冲线：你的身体需要经历哪些&quot;改造&quot;才能跑完42.195公里</title>
+      <description>《321跑步科学讲堂》
+
+从报名到冲线：你的身体需要经历哪些&quot;改造&quot;才能跑完42.195公里
+
+从报名到冲线：你的身体需要经历哪些&quot;改造&quot;才能跑完42.195公里全马报名成功那一刻，兴奋劲大概能持续三天。第四天开始，焦虑就来了——42.195公里到底意味着什么？自己现在的身体能不能扛住？这种焦虑很正常。马拉松之所以是马拉松，不是因为距离长，而是因为它对人体能量系统、肌肉骨骼系统和心血管系统提出了极其苛刻的要求。好消息是，这些系统都可以通过训练来&quot;改造&quot;。坏消息是，改造需要时间，而且有明确的生理学规律不能违背。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+从报名到冲线：你的身体需要经历哪些&quot;改造&quot;才能跑完42.195公里
+
+从报名到冲线：你的身体需要经历哪些&quot;改造&quot;才能跑完42.195公里全马报名成功那一刻，兴奋劲大概能持续三天。第四天开始，焦虑就来了——42.195公里到底意味着什么？自己现在的身体能不能扛住？这种焦虑很正常。马拉松之所以是马拉松，不是因为距离长，而是因为它对人体能量系统、肌肉骨骼系统和心血管系统提出了极其苛刻的要求。好消息是，这些系统都可以通过训练来&quot;改造&quot;。坏消息是，改造需要时间，而且有明确的生理学规律不能违背。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 14 Jul 2026 08:04:15 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep019.mp3" length="15973920" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep019</guid>
+      <itunes:episode>19</itunes:episode>
+    </item>
     <item>
       <title>EP018 | 跑完一场大课表浑身酸痛三天缓不过来，问题可能不在训练量而在你的餐盘里</title>
       <description>《321跑步科学讲堂》
