@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 08:09:34 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:14:43 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP021 | 跑到30公里时那个想停下来的念头，背后是一场大脑与肌肉的拉锯战</title>
+      <description>《321跑步科学讲堂》
+
+跑到30公里时那个想停下来的念头，背后是一场大脑与肌肉的拉锯战
+
+跑到30公里时那个想停下来的念头，背后是一场大脑与肌肉的拉锯战每一个跑过30公里以上的人，大概都经历过那个瞬间：双腿还在动，配速还没崩，但脑子里突然冒出一个清晰无比的声音——&quot;停下来吧，今天到这里就够了。&quot;这个念头不是因为你受伤了，也不是因为你真的跑不动了。它来自你的大脑，而且它有自己的一套逻辑。理解这套逻辑，是跑者突破瓶颈最容易被忽视的一课。一、疲劳不是肌肉先投降，是大脑先拉闸传统观点认为，跑步中的疲劳是&quot;外周性&quot;的——肌糖原耗尽、代谢废物堆积、肌纤维微损伤，身体物理性地跑不动了。但过去二十年间，运动生理学领域出现了一个重要的修正视角：中枢疲劳理论。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+跑到30公里时那个想停下来的念头，背后是一场大脑与肌肉的拉锯战
+
+跑到30公里时那个想停下来的念头，背后是一场大脑与肌肉的拉锯战每一个跑过30公里以上的人，大概都经历过那个瞬间：双腿还在动，配速还没崩，但脑子里突然冒出一个清晰无比的声音——&quot;停下来吧，今天到这里就够了。&quot;这个念头不是因为你受伤了，也不是因为你真的跑不动了。它来自你的大脑，而且它有自己的一套逻辑。理解这套逻辑，是跑者突破瓶颈最容易被忽视的一课。一、疲劳不是肌肉先投降，是大脑先拉闸传统观点认为，跑步中的疲劳是&quot;外周性&quot;的——肌糖原耗尽、代谢废物堆积、肌纤维微损伤，身体物理性地跑不动了。但过去二十年间，运动生理学领域出现了一个重要的修正视角：中枢疲劳理论。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 21 Jul 2026 08:10:24 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep021.mp3" length="7638720" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep021</guid>
+      <itunes:episode>21</itunes:episode>
+    </item>
     <item>
       <title>EP020 | 那个在35公里撞墙的周末，让我彻底推翻了自己用了三年的补给方案</title>
       <description>《321跑步科学讲堂》
