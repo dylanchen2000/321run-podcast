@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 08:14:43 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:20:56 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP022 | 2024年神经科学的新证据：你每跑一步，大脑都在悄悄&quot;长出&quot;新东西</title>
+      <description>《321跑步科学讲堂》
+
+2024年神经科学的新证据：你每跑一步，大脑都在悄悄&quot;长出&quot;新东西
+
+2024年神经科学的新证据：你每跑一步，大脑都在悄悄&quot;长出&quot;新东西一个让跑者兴奋的事实正在被反复验证——你以为跑步只是在训练心肺和双腿，但你的大脑才是最大的受益者之一。2024年，多项来自神经科学和脑成像领域的研究集中指向同一个结论：规律跑步正在从结构层面重塑你的大脑。这不是鸡汤，而是可以被核磁共振扫描仪&quot;看见&quot;的物理变化。一、BDNF：跑者大脑里的&quot;化肥&quot;如果你只需要记住一个缩写，那就是BDNF——脑源性神经营养因子。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+2024年神经科学的新证据：你每跑一步，大脑都在悄悄&quot;长出&quot;新东西
+
+2024年神经科学的新证据：你每跑一步，大脑都在悄悄&quot;长出&quot;新东西一个让跑者兴奋的事实正在被反复验证——你以为跑步只是在训练心肺和双腿，但你的大脑才是最大的受益者之一。2024年，多项来自神经科学和脑成像领域的研究集中指向同一个结论：规律跑步正在从结构层面重塑你的大脑。这不是鸡汤，而是可以被核磁共振扫描仪&quot;看见&quot;的物理变化。一、BDNF：跑者大脑里的&quot;化肥&quot;如果你只需要记住一个缩写，那就是BDNF——脑源性神经营养因子。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 23 Jul 2026 08:04:33 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep022.mp3" length="12853440" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep022</guid>
+      <itunes:episode>22</itunes:episode>
+    </item>
     <item>
       <title>EP021 | 跑到30公里时那个想停下来的念头，背后是一场大脑与肌肉的拉锯战</title>
       <description>《321跑步科学讲堂》
