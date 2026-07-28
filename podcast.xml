@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 08:20:56 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 08:05:27 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP023 | 2024年全国办了两千场马拉松，但真正的变化藏在那些你没听过名字的小城里</title>
+      <description>《321跑步科学讲堂》
+
+2024年全国办了两千场马拉松，但真正的变化藏在那些你没听过名字的小城里
+
+2024年全国办了两千场马拉松，但真正的变化藏在那些你没听过名字的小城里2024年11月的一个周末，江西上饶铅山县的街道上挤满了穿着号码布的跑者。这个常住人口不到50万的赣东北小城，第一次举办半程马拉松。赛道沿着信江河畔铺展，经过明清古街和连四纸作坊遗址，终点设在河口古镇的青石板广场上。报名通道开放48小时，5000个名额全部抢光，其中超过七成参赛者来自省外。这不是孤例。2024年，类似铅山这样首次举办路跑赛事的县级城市，在全国超过了200个。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+2024年全国办了两千场马拉松，但真正的变化藏在那些你没听过名字的小城里
+
+2024年全国办了两千场马拉松，但真正的变化藏在那些你没听过名字的小城里2024年11月的一个周末，江西上饶铅山县的街道上挤满了穿着号码布的跑者。这个常住人口不到50万的赣东北小城，第一次举办半程马拉松。赛道沿着信江河畔铺展，经过明清古街和连四纸作坊遗址，终点设在河口古镇的青石板广场上。报名通道开放48小时，5000个名额全部抢光，其中超过七成参赛者来自省外。这不是孤例。2024年，类似铅山这样首次举办路跑赛事的县级城市，在全国超过了200个。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 28 Jul 2026 08:02:50 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep023.mp3" length="11632320" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep023</guid>
+      <itunes:episode>23</itunes:episode>
+    </item>
     <item>
       <title>EP022 | 2024年神经科学的新证据：你每跑一步，大脑都在悄悄&quot;长出&quot;新东西</title>
       <description>《321跑步科学讲堂》
