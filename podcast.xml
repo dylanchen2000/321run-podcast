@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 08:05:27 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 08:06:32 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP024 | 从柏油路到无人区：你的身体需要哪些&quot;改装&quot;才能扛住戈壁超马</title>
+      <description>《321跑步科学讲堂》
+
+从柏油路到无人区：你的身体需要哪些&quot;改装&quot;才能扛住戈壁超马
+
+从柏油路到无人区：你的身体需要哪些&quot;改装&quot;才能扛住戈壁超马一条赛道，没有树荫，没有补给站之间的便利店，地表温度可能超过50摄氏度，脚下是砾石、沙地和干涸的河床交替出现的复杂地形。这就是戈壁超马的真实面貌。对于习惯了城市马拉松的跑者来说，从42.195公里跨越到100公里甚至150公里的戈壁赛道，不是简单地&quot;多跑一些&quot;就能解决的问题。你的身体需要在能量供给系统、散热机制、肌肉骨骼耐受力和心理调节能力上完成一次系统性的&quot;改装升级&quot;。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+从柏油路到无人区：你的身体需要哪些&quot;改装&quot;才能扛住戈壁超马
+
+从柏油路到无人区：你的身体需要哪些&quot;改装&quot;才能扛住戈壁超马一条赛道，没有树荫，没有补给站之间的便利店，地表温度可能超过50摄氏度，脚下是砾石、沙地和干涸的河床交替出现的复杂地形。这就是戈壁超马的真实面貌。对于习惯了城市马拉松的跑者来说，从42.195公里跨越到100公里甚至150公里的戈壁赛道，不是简单地&quot;多跑一些&quot;就能解决的问题。你的身体需要在能量供给系统、散热机制、肌肉骨骼耐受力和心理调节能力上完成一次系统性的&quot;改装升级&quot;。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 30 Jul 2026 08:03:24 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep024.mp3" length="14667360" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep024</guid>
+      <itunes:episode>24</itunes:episode>
+    </item>
     <item>
       <title>EP023 | 2024年全国办了两千场马拉松，但真正的变化藏在那些你没听过名字的小城里</title>
       <description>《321跑步科学讲堂》
