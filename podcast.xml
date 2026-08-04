@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 08:06:32 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 08:03:11 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP025 | 他在北京跑了八年，肺功能检查那天才知道自己一直在&quot;慢性中毒&quot;</title>
+      <description>《321跑步科学讲堂》
+
+他在北京跑了八年，肺功能检查那天才知道自己一直在&quot;慢性中毒&quot;
+
+他在北京跑了八年，肺功能检查那天才知道自己一直在&quot;慢性中毒&quot;老周是我们俱乐部的元老级跑者。2016年开始跑步，风雨无阻，北京的冬天也从不间断。他的跑量稳定在每月300公里以上，配速从530逐步压到430，2019年跑出了全马314的成绩。在很多人眼里，这是一个自律到极致的业余跑者样本。2024年初，老周参加单位体检，肺功能检测结果让他愣住了：FEV1/FVC比值（用力呼气一秒率）连续三年下降，已经逼近临界值。医生问他是否吸烟，他说不抽。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+他在北京跑了八年，肺功能检查那天才知道自己一直在&quot;慢性中毒&quot;
+
+他在北京跑了八年，肺功能检查那天才知道自己一直在&quot;慢性中毒&quot;老周是我们俱乐部的元老级跑者。2016年开始跑步，风雨无阻，北京的冬天也从不间断。他的跑量稳定在每月300公里以上，配速从530逐步压到430，2019年跑出了全马314的成绩。在很多人眼里，这是一个自律到极致的业余跑者样本。2024年初，老周参加单位体检，肺功能检测结果让他愣住了：FEV1/FVC比值（用力呼气一秒率）连续三年下降，已经逼近临界值。医生问他是否吸烟，他说不抽。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 04 Aug 2026 08:02:51 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep025.mp3" length="13517760" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep025</guid>
+      <itunes:episode>25</itunes:episode>
+    </item>
     <item>
       <title>EP024 | 从柏油路到无人区：你的身体需要哪些&quot;改装&quot;才能扛住戈壁超马</title>
       <description>《321跑步科学讲堂》
