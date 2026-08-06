@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 08:03:11 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 08:12:05 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP026 | 跟腱疼了三个月才就医，但真正的康复难题是&quot;什么时候可以重新跑起来&quot;</title>
+      <description>《321跑步科学讲堂》
+
+跟腱疼了三个月才就医，但真正的康复难题是&quot;什么时候可以重新跑起来&quot;
+
+跟腱疼了三个月才就医，但真正的康复难题是&quot;什么时候可以重新跑起来&quot;跑量上去之后，脚后跟上方那根粗壮的&quot;绳索&quot;开始隐隐作痛——这几乎是每个认真训练的跑者迟早会面对的剧情。跟腱，人体最粗最强韧的肌腱，承受着跑步时相当于体重6到8倍的反复冲击。它的耐受力惊人，但一旦超过临界点，修复过程的漫长程度往往超出预期。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+跟腱疼了三个月才就医，但真正的康复难题是&quot;什么时候可以重新跑起来&quot;
+
+跟腱疼了三个月才就医，但真正的康复难题是&quot;什么时候可以重新跑起来&quot;跑量上去之后，脚后跟上方那根粗壮的&quot;绳索&quot;开始隐隐作痛——这几乎是每个认真训练的跑者迟早会面对的剧情。跟腱，人体最粗最强韧的肌腱，承受着跑步时相当于体重6到8倍的反复冲击。它的耐受力惊人，但一旦超过临界点，修复过程的漫长程度往往超出预期。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 06 Aug 2026 08:03:57 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep026.mp3" length="15898080" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep026</guid>
+      <itunes:episode>26</itunes:episode>
+    </item>
     <item>
       <title>EP025 | 他在北京跑了八年，肺功能检查那天才知道自己一直在&quot;慢性中毒&quot;</title>
       <description>《321跑步科学讲堂》
