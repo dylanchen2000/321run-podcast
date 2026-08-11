@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 08:12:05 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 08:07:44 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP027 | 跑完一场高强度训练后的72小时，你的免疫系统正在经历什么</title>
+      <description>《321跑步科学讲堂》
+
+跑完一场高强度训练后的72小时，你的免疫系统正在经历什么
+
+跑完一场高强度训练后的72小时，你的免疫系统正在经历什么很多跑者都有过这样的经历：备赛期间训练状态极佳，比赛结束后却突然感冒发烧，好像身体在&quot;秋后算账&quot;。这不是巧合，也不是心理作用。你的免疫系统在高强度运动后，确实会经历一段短暂但真实的&quot;脆弱期&quot;。理解这个机制，对于每一位认真训练的跑者来说，可能比多跑10公里更重要。一、免疫系统的&quot;J曲线&quot;：不是跑得越多越健康曲线的最低点，也就是感染风险最小的位置，对应的是中等强度、规律运动的人群。而曲线的两端——久坐不动的人和过度训练的运动员——感染风险都明显升高。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+跑完一场高强度训练后的72小时，你的免疫系统正在经历什么
+
+跑完一场高强度训练后的72小时，你的免疫系统正在经历什么很多跑者都有过这样的经历：备赛期间训练状态极佳，比赛结束后却突然感冒发烧，好像身体在&quot;秋后算账&quot;。这不是巧合，也不是心理作用。你的免疫系统在高强度运动后，确实会经历一段短暂但真实的&quot;脆弱期&quot;。理解这个机制，对于每一位认真训练的跑者来说，可能比多跑10公里更重要。一、免疫系统的&quot;J曲线&quot;：不是跑得越多越健康曲线的最低点，也就是感染风险最小的位置，对应的是中等强度、规律运动的人群。而曲线的两端——久坐不动的人和过度训练的运动员——感染风险都明显升高。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 11 Aug 2026 08:07:31 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep027.mp3" length="12313920" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep027</guid>
+      <itunes:episode>27</itunes:episode>
+    </item>
     <item>
       <title>EP026 | 跟腱疼了三个月才就医，但真正的康复难题是&quot;什么时候可以重新跑起来&quot;</title>
       <description>《321跑步科学讲堂》
