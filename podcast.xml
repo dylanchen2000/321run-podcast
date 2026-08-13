@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 08:07:44 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 08:03:04 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP028 | 他穿着碳板鞋跑完首马PB了12分钟，但赛后小腿的反应让他开始重新审视这双鞋</title>
+      <description>《321跑步科学讲堂》
+
+他穿着碳板鞋跑完首马PB了12分钟，但赛后小腿的反应让他开始重新审视这双鞋
+
+他穿着碳板鞋跑完首马PB了12分钟，但赛后小腿的反应让他开始重新审视这双鞋2019年柏林马拉松赛后的新闻发布厅里，记者们注意到一个有趣的现象：前十名完赛选手中，几乎所有人脚上都穿着同一类型的跑鞋——中底嵌入碳纤维板的厚底竞速鞋。这不是巧合。那一年，碳板跑鞋从精英圈层迅速渗透到大众跑者群体，各大品牌纷纷推出自己的碳板产品线，一场关于跑鞋的技术革命已经不可逆转地展开了。但革命从来不只有一面。当越来越多的业余跑者穿上碳板鞋刷新个人最好成绩时，运动医学诊室里也开始出现一些新的面孔——他们的主诉往往是小腿后群肌肉的异常酸痛，或者跟腱区域的不适感，而这些症状在他们换穿碳板鞋之前并不明显。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+他穿着碳板鞋跑完首马PB了12分钟，但赛后小腿的反应让他开始重新审视这双鞋
+
+他穿着碳板鞋跑完首马PB了12分钟，但赛后小腿的反应让他开始重新审视这双鞋2019年柏林马拉松赛后的新闻发布厅里，记者们注意到一个有趣的现象：前十名完赛选手中，几乎所有人脚上都穿着同一类型的跑鞋——中底嵌入碳纤维板的厚底竞速鞋。这不是巧合。那一年，碳板跑鞋从精英圈层迅速渗透到大众跑者群体，各大品牌纷纷推出自己的碳板产品线，一场关于跑鞋的技术革命已经不可逆转地展开了。但革命从来不只有一面。当越来越多的业余跑者穿上碳板鞋刷新个人最好成绩时，运动医学诊室里也开始出现一些新的面孔——他们的主诉往往是小腿后群肌肉的异常酸痛，或者跟腱区域的不适感，而这些症状在他们换穿碳板鞋之前并不明显。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 13 Aug 2026 08:02:50 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep028.mp3" length="11827200" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep028</guid>
+      <itunes:episode>28</itunes:episode>
+    </item>
     <item>
       <title>EP027 | 跑完一场高强度训练后的72小时，你的免疫系统正在经历什么</title>
       <description>《321跑步科学讲堂》
