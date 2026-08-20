@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 08:03:04 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 08:03:19 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP029 | 2024年顶刊给出了明确数据：你赛前那杯咖啡，喝对了能快多少？</title>
+      <description>《321跑步科学讲堂》
+
+2024年顶刊给出了明确数据：你赛前那杯咖啡，喝对了能快多少？
+
+2024年顶刊给出了明确数据：你赛前那杯咖啡，喝对了能快多少？一个被反复验证却仍被多数业余跑者忽视的事实是：咖啡因是目前证据等级最高的合法运动增效物质之一。世界反兴奋剂机构（WADA）早在2004年就将咖啡因移出禁用清单，但这并不意味着它的效果微弱——恰恰相反，正是因为它太过普遍、太难监管，才被放开。2024年，多项针对耐力跑者的研究集中更新了咖啡因的使用策略，从剂量窗口到个体差异，给出了比以往更精确的操作指南。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+2024年顶刊给出了明确数据：你赛前那杯咖啡，喝对了能快多少？
+
+2024年顶刊给出了明确数据：你赛前那杯咖啡，喝对了能快多少？一个被反复验证却仍被多数业余跑者忽视的事实是：咖啡因是目前证据等级最高的合法运动增效物质之一。世界反兴奋剂机构（WADA）早在2004年就将咖啡因移出禁用清单，但这并不意味着它的效果微弱——恰恰相反，正是因为它太过普遍、太难监管，才被放开。2024年，多项针对耐力跑者的研究集中更新了咖啡因的使用策略，从剂量窗口到个体差异，给出了比以往更精确的操作指南。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 20 Aug 2026 08:03:07 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep029.mp3" length="13580160" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep029</guid>
+      <itunes:episode>29</itunes:episode>
+    </item>
     <item>
       <title>EP028 | 他穿着碳板鞋跑完首马PB了12分钟，但赛后小腿的反应让他开始重新审视这双鞋</title>
       <description>《321跑步科学讲堂》
