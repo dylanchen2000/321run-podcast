@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 08:03:19 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:02:41 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP030 | 2024年三项研究同时锁定了一个关键指标：你每跑一步浪费的能量，远比你以为的多</title>
+      <description>《321跑步科学讲堂》
+
+2024年三项研究同时锁定了一个关键指标：你每跑一步浪费的能量，远比你以为的多
+
+2024年三项研究同时锁定了一个关键指标：你每跑一步浪费的能量，远比你以为的多一个令人不安的事实正在被越来越多的研究证实：大多数业余跑者在每一步落地和蹬离的过程中，有相当比例的代谢能量被&quot;白白消耗&quot;了——不是用来推动身体前进，而是用来对抗自身的低效运动模式。2024年，至少三个独立研究方向同时聚焦于跑步效率的底层机制，从肌肉激活时序、AI生物力学分析到鞋类材料工程，它们各自的数据指向了一个共同结论：跑步经济性的提升空间，远比多数跑者认知的要大。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+2024年三项研究同时锁定了一个关键指标：你每跑一步浪费的能量，远比你以为的多
+
+2024年三项研究同时锁定了一个关键指标：你每跑一步浪费的能量，远比你以为的多一个令人不安的事实正在被越来越多的研究证实：大多数业余跑者在每一步落地和蹬离的过程中，有相当比例的代谢能量被&quot;白白消耗&quot;了——不是用来推动身体前进，而是用来对抗自身的低效运动模式。2024年，至少三个独立研究方向同时聚焦于跑步效率的底层机制，从肌肉激活时序、AI生物力学分析到鞋类材料工程，它们各自的数据指向了一个共同结论：跑步经济性的提升空间，远比多数跑者认知的要大。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 25 Aug 2026 08:02:19 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep030.mp3" length="11232480" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep030</guid>
+      <itunes:episode>30</itunes:episode>
+    </item>
     <item>
       <title>EP029 | 2024年顶刊给出了明确数据：你赛前那杯咖啡，喝对了能快多少？</title>
       <description>《321跑步科学讲堂》
