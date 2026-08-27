@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 08:02:41 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 08:03:07 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP031 | 他在35公里处崩掉了，赛后的血乳酸报告揭开了真正的原因</title>
+      <description>《321跑步科学讲堂》
+
+他在35公里处崩掉了，赛后的血乳酸报告揭开了真正的原因
+
+他在35公里处崩掉了，赛后的血乳酸报告揭开了真正的原因2023年无锡马拉松赛后，一位跑龄四年、全马成绩稳定在3小时20分左右的跑者，在赛后医疗站做了一次血乳酸检测。他的困惑很具体：前30公里配速4分42秒，体感轻松，心率稳定在155左右；但从35公里开始，双腿像灌了铅，配速骤降到5分30秒以上，最后7公里比前35公里多花了将近12分钟。他以为是补给出了问题，或者训练量不够。但血乳酸报告显示，他在赛后即刻的血乳酸浓度高达9.2mmol/L，而同场完赛成绩相近但后程稳定的跑者，赛后血乳酸普遍在5-6mmol/L之间。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+他在35公里处崩掉了，赛后的血乳酸报告揭开了真正的原因
+
+他在35公里处崩掉了，赛后的血乳酸报告揭开了真正的原因2023年无锡马拉松赛后，一位跑龄四年、全马成绩稳定在3小时20分左右的跑者，在赛后医疗站做了一次血乳酸检测。他的困惑很具体：前30公里配速4分42秒，体感轻松，心率稳定在155左右；但从35公里开始，双腿像灌了铅，配速骤降到5分30秒以上，最后7公里比前35公里多花了将近12分钟。他以为是补给出了问题，或者训练量不够。但血乳酸报告显示，他在赛后即刻的血乳酸浓度高达9.2mmol/L，而同场完赛成绩相近但后程稳定的跑者，赛后血乳酸普遍在5-6mmol/L之间。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 27 Aug 2026 08:02:56 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep031.mp3" length="14971680" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep031</guid>
+      <itunes:episode>31</itunes:episode>
+    </item>
     <item>
       <title>EP030 | 2024年三项研究同时锁定了一个关键指标：你每跑一步浪费的能量，远比你以为的多</title>
       <description>《321跑步科学讲堂》
