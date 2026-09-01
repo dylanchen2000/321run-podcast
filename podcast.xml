@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 08:03:07 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:02:57 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP032 | 他确诊糖尿病后开始跑步，三年后糖化血红蛋白从9.1降到了6.3</title>
+      <description>《321跑步科学讲堂》
+
+他确诊糖尿病后开始跑步，三年后糖化血红蛋白从9.1降到了6.3
+
+他确诊糖尿病后开始跑步，三年后糖化血红蛋白从9.1降到了6.3一、那个站在起跑线上的人2022年北京马拉松的起点，有一个跑者手臂上贴着一枚硬币大小的白色圆片。那不是装饰，而是一枚连续血糖监测传感器。他腰包里除了能量胶，还装着葡萄糖片和一小管蜂蜜。这个场景并不罕见。在中国，超过1.4亿糖尿病患者中，有越来越多的人选择跑步作为血糖管理的手段。他们面临的挑战远比普通跑者复杂——每一次训练都是一场在&quot;血糖过高&quot;和&quot;血糖过低&quot;之间走钢丝的精密操作。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+他确诊糖尿病后开始跑步，三年后糖化血红蛋白从9.1降到了6.3
+
+他确诊糖尿病后开始跑步，三年后糖化血红蛋白从9.1降到了6.3一、那个站在起跑线上的人2022年北京马拉松的起点，有一个跑者手臂上贴着一枚硬币大小的白色圆片。那不是装饰，而是一枚连续血糖监测传感器。他腰包里除了能量胶，还装着葡萄糖片和一小管蜂蜜。这个场景并不罕见。在中国，超过1.4亿糖尿病患者中，有越来越多的人选择跑步作为血糖管理的手段。他们面临的挑战远比普通跑者复杂——每一次训练都是一场在&quot;血糖过高&quot;和&quot;血糖过低&quot;之间走钢丝的精密操作。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 01 Sep 2026 08:02:44 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep032.mp3" length="11972640" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep032</guid>
+      <itunes:episode>32</itunes:episode>
+    </item>
     <item>
       <title>EP031 | 他在35公里处崩掉了，赛后的血乳酸报告揭开了真正的原因</title>
       <description>《321跑步科学讲堂》
