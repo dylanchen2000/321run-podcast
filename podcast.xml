@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 08:02:57 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:02:49 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP033 | 2024年三项研究同时更新了足底筋膜炎的治疗路线图：你脚底那块&quot;钢板&quot;，可能一直在被错误对待</title>
+      <description>《321跑步科学讲堂》
+
+2024年三项研究同时更新了足底筋膜炎的治疗路线图：你脚底那块&quot;钢板&quot;，可能一直在被错误对待
+
+2024年三项研究同时更新了足底筋膜炎的治疗路线图：你脚底那块&quot;钢板&quot;，可能一直在被错误对待每个经历过足底筋膜炎的跑者，大概都记得那个早晨——双脚落地的瞬间，脚跟像踩在碎玻璃上。这种痛不剧烈，却极其消磨人。它不会在跑步时突然把你放倒，而是用一种慢性的、反复的方式告诉你：你的足底正在承受它不该承受的东西。足底筋膜炎在长跑人群中的发生率高达10%，是跑者最常见的足部损伤之一。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+2024年三项研究同时更新了足底筋膜炎的治疗路线图：你脚底那块&quot;钢板&quot;，可能一直在被错误对待
+
+2024年三项研究同时更新了足底筋膜炎的治疗路线图：你脚底那块&quot;钢板&quot;，可能一直在被错误对待每个经历过足底筋膜炎的跑者，大概都记得那个早晨——双脚落地的瞬间，脚跟像踩在碎玻璃上。这种痛不剧烈，却极其消磨人。它不会在跑步时突然把你放倒，而是用一种慢性的、反复的方式告诉你：你的足底正在承受它不该承受的东西。足底筋膜炎在长跑人群中的发生率高达10%，是跑者最常见的足部损伤之一。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 03 Sep 2026 08:02:39 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep033.mp3" length="14030400" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep033</guid>
+      <itunes:episode>33</itunes:episode>
+    </item>
     <item>
       <title>EP032 | 他确诊糖尿病后开始跑步，三年后糖化血红蛋白从9.1降到了6.3</title>
       <description>《321跑步科学讲堂》
