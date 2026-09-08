@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 08:02:49 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:02:41 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP034 | 去年全国办了1828场马拉松，但最值得关注的变化不在一线城市</title>
+      <description>《321跑步科学讲堂》
+
+去年全国办了1828场马拉松，但最值得关注的变化不在一线城市
+
+去年全国办了1828场马拉松，但最值得关注的变化不在一线城市2024年11月的一个周末，江苏宝应县迎来了它历史上第一场半程马拉松。这座大运河畔的小城，常住人口不到70万，赛事规模也只有3000人。但报名通道开放后48小时内，名额全部抢空。组委会不得不临时增加了500个名额，依然供不应求。同一个周末，北京、上海、广州各有一场万人规模的路跑赛事同时鸣枪。社交媒体上，跑者们戏称这是&quot;撞车周末&quot;——不是交通事故，而是赛事日程的高度重叠。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+去年全国办了1828场马拉松，但最值得关注的变化不在一线城市
+
+去年全国办了1828场马拉松，但最值得关注的变化不在一线城市2024年11月的一个周末，江苏宝应县迎来了它历史上第一场半程马拉松。这座大运河畔的小城，常住人口不到70万，赛事规模也只有3000人。但报名通道开放后48小时内，名额全部抢空。组委会不得不临时增加了500个名额，依然供不应求。同一个周末，北京、上海、广州各有一场万人规模的路跑赛事同时鸣枪。社交媒体上，跑者们戏称这是&quot;撞车周末&quot;——不是交通事故，而是赛事日程的高度重叠。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 08 Sep 2026 08:02:30 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep034.mp3" length="13320000" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep034</guid>
+      <itunes:episode>34</itunes:episode>
+    </item>
     <item>
       <title>EP033 | 2024年三项研究同时更新了足底筋膜炎的治疗路线图：你脚底那块&quot;钢板&quot;，可能一直在被错误对待</title>
       <description>《321跑步科学讲堂》
