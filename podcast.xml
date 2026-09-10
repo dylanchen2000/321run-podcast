@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 08:02:41 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:03:04 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP035 | 每周跑三次却查出骨量偏低？研究人员发现问题可能不在&quot;跑不跑&quot;，而在&quot;怎么跑&quot;</title>
+      <description>《321跑步科学讲堂》
+
+每周跑三次却查出骨量偏低？研究人员发现问题可能不在&quot;跑不跑&quot;，而在&quot;怎么跑&quot;
+
+每周跑三次却查出骨量偏低？研究人员发现问题可能不在&quot;跑不跑&quot;，而在&quot;怎么跑&quot;一个让研究人员困惑的现象骨密度检测正在成为越来越多跑者体检中的常规项目。一个令人意外的发现随之浮出水面：部分长期坚持跑步的人，骨密度并没有想象中那么好，甚至有些人的检测结果显示骨量偏低。这和大多数人的直觉相悖。跑步不是冲击性运动吗？不是应该对骨骼有好处吗？事实上，研究人员在分析大量跑者的骨密度数据时发现，&quot;跑步&quot;这个笼统的概念下，隐藏着巨大的差异。同样是每周跑三四次，有些人的骨密度持续改善，有些人却原地踏步甚至下降。差异的根源不在于跑不跑，而在于怎么跑、跑多少、以及跑步之外做了什么。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+每周跑三次却查出骨量偏低？研究人员发现问题可能不在&quot;跑不跑&quot;，而在&quot;怎么跑&quot;
+
+每周跑三次却查出骨量偏低？研究人员发现问题可能不在&quot;跑不跑&quot;，而在&quot;怎么跑&quot;一个让研究人员困惑的现象骨密度检测正在成为越来越多跑者体检中的常规项目。一个令人意外的发现随之浮出水面：部分长期坚持跑步的人，骨密度并没有想象中那么好，甚至有些人的检测结果显示骨量偏低。这和大多数人的直觉相悖。跑步不是冲击性运动吗？不是应该对骨骼有好处吗？事实上，研究人员在分析大量跑者的骨密度数据时发现，&quot;跑步&quot;这个笼统的概念下，隐藏着巨大的差异。同样是每周跑三四次，有些人的骨密度持续改善，有些人却原地踏步甚至下降。差异的根源不在于跑不跑，而在于怎么跑、跑多少、以及跑步之外做了什么。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 10 Sep 2026 08:02:50 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep035.mp3" length="14409600" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep035</guid>
+      <itunes:episode>35</itunes:episode>
+    </item>
     <item>
       <title>EP034 | 去年全国办了1828场马拉松，但最值得关注的变化不在一线城市</title>
       <description>《321跑步科学讲堂》
