@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 08:03:04 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:03:03 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP036 | 跑了两年突然不想跑了，问题可能不在意志力，而在你的训练结构里</title>
+      <description>《321跑步科学讲堂》
+
+跑了两年突然不想跑了，问题可能不在意志力，而在你的训练结构里
+
+跑了两年突然不想跑了，问题可能不在意志力，而在你的训练结构里有一个现象很普遍：刚开始跑步的头半年，几乎不需要任何动力，闹钟一响就能出门；但跑到第二年、第三年，明明体能比从前好了太多，却越来越难迈出家门那一步。不是受伤，不是没时间，就是单纯地&quot;不想跑了&quot;。很多跑者把这归结为意志力不够，然后试图用更严格的自律去对抗。但运动心理学的研究给出了一个不同的答案——问题往往不在人身上，而在训练本身的结构里。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+跑了两年突然不想跑了，问题可能不在意志力，而在你的训练结构里
+
+跑了两年突然不想跑了，问题可能不在意志力，而在你的训练结构里有一个现象很普遍：刚开始跑步的头半年，几乎不需要任何动力，闹钟一响就能出门；但跑到第二年、第三年，明明体能比从前好了太多，却越来越难迈出家门那一步。不是受伤，不是没时间，就是单纯地&quot;不想跑了&quot;。很多跑者把这归结为意志力不够，然后试图用更严格的自律去对抗。但运动心理学的研究给出了一个不同的答案——问题往往不在人身上，而在训练本身的结构里。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 22 Sep 2026 08:02:48 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep036.mp3" length="15180480" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep036</guid>
+      <itunes:episode>36</itunes:episode>
+    </item>
     <item>
       <title>EP035 | 每周跑三次却查出骨量偏低？研究人员发现问题可能不在&quot;跑不跑&quot;，而在&quot;怎么跑&quot;</title>
       <description>《321跑步科学讲堂》
