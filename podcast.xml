@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 22 Sep 2026 08:03:03 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:02:51 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP037 | 花了好几百买的压缩裤，到底是在帮你跑步还是帮你花钱？</title>
+      <description>《321跑步科学讲堂》
+
+花了好几百买的压缩裤，到底是在帮你跑步还是帮你花钱？
+
+花了好几百买的压缩裤，到底是在帮你跑步还是帮你花钱？每个跑者的装备清单里，大概都有一条压缩裤或一双压缩袜。有人赛前必穿，说穿上腿就&quot;不抖了&quot;；有人跑完套上，觉得恢复快了一整天；也有人穿了半年，除了觉得紧，没感受到任何区别。问题来了：压缩装备到底有没有用？如果有用，它到底在哪个环节起作用？如果没用，为什么那么多精英选手也穿？这些问题不只是跑者在纠结，研究人员也争论了很多年。今天我们把现有的证据摊开来看一看。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+花了好几百买的压缩裤，到底是在帮你跑步还是帮你花钱？
+
+花了好几百买的压缩裤，到底是在帮你跑步还是帮你花钱？每个跑者的装备清单里，大概都有一条压缩裤或一双压缩袜。有人赛前必穿，说穿上腿就&quot;不抖了&quot;；有人跑完套上，觉得恢复快了一整天；也有人穿了半年，除了觉得紧，没感受到任何区别。问题来了：压缩装备到底有没有用？如果有用，它到底在哪个环节起作用？如果没用，为什么那么多精英选手也穿？这些问题不只是跑者在纠结，研究人员也争论了很多年。今天我们把现有的证据摊开来看一看。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 24 Sep 2026 08:02:26 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep037.mp3" length="13617600" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep037</guid>
+      <itunes:episode>37</itunes:episode>
+    </item>
     <item>
       <title>EP036 | 跑了两年突然不想跑了，问题可能不在意志力，而在你的训练结构里</title>
       <description>《321跑步科学讲堂》
