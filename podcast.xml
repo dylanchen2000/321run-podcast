@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 08:02:51 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:03:40 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP038 | 跑量一上来跟腱就疼，你的肌腱可能正在经历一场&quot;沉默的崩溃&quot;</title>
+      <description>《321跑步科学讲堂》
+
+跑量一上来跟腱就疼，你的肌腱可能正在经历一场&quot;沉默的崩溃&quot;
+
+跑量一上来跟腱就疼，你的肌腱可能正在经历一场&quot;沉默的崩溃&quot;跟腱疼这件事，几乎每个认真跑步的人都会遇到。有人是晨起下床第一步，脚后跟上方传来一阵僵硬的钝痛；有人是跑到第三公里开始隐隐不适，咬牙跑完之后反而不疼了，但第二天又卷土重来。更让人困惑的是，很多跑者去拍片子，骨头没事、韧带没事，医生说&quot;跟腱有点炎症，少跑点&quot;，然后就没了下文。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+跑量一上来跟腱就疼，你的肌腱可能正在经历一场&quot;沉默的崩溃&quot;
+
+跑量一上来跟腱就疼，你的肌腱可能正在经历一场&quot;沉默的崩溃&quot;跟腱疼这件事，几乎每个认真跑步的人都会遇到。有人是晨起下床第一步，脚后跟上方传来一阵僵硬的钝痛；有人是跑到第三公里开始隐隐不适，咬牙跑完之后反而不疼了，但第二天又卷土重来。更让人困惑的是，很多跑者去拍片子，骨头没事、韧带没事，医生说&quot;跟腱有点炎症，少跑点&quot;，然后就没了下文。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 29 Sep 2026 08:03:08 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep038.mp3" length="16313280" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep038</guid>
+      <itunes:episode>38</itunes:episode>
+    </item>
     <item>
       <title>EP037 | 花了好几百买的压缩裤，到底是在帮你跑步还是帮你花钱？</title>
       <description>《321跑步科学讲堂》
