@@ -6,7 +6,7 @@
     <language>zh-cn</language>
     <link>https://dylanchen2000.github.io/321run-podcast</link>
     <generator>321RUN Podcast Pipeline</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 08:03:40 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:02:48 +0800</lastBuildDate>
     <atom:link href="https://dylanchen2000.github.io/321run-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>道俊教练</itunes:author>
     <itunes:summary>道俊教练与搭档小何的双人对话播客，每期围绕一个跑步科学话题深入探讨。内容涵盖马拉松训练方法、运动生理学、跑步损伤预防、比赛配速策略、最新运动科学研究解读。</itunes:summary>
@@ -24,6 +24,33 @@
       <title>321跑步科学讲堂</title>
       <link>https://dylanchen2000.github.io/321run-podcast</link>
     </image>
+    <item>
+      <title>EP039 | 2024年神经科学研究揭示：跑团里那个带你跑的人，正在改变你的大脑化学反应</title>
+      <description>《321跑步科学讲堂》
+
+2024年神经科学研究揭示：跑团里那个带你跑的人，正在改变你的大脑化学反应
+
+2024年神经科学研究揭示：跑团里那个带你跑的人，正在改变你的大脑化学反应你可能有过这种体验：同样是节奏跑，一个人在操场上跑5组就开始打退堂鼓，但跟着一群人跑，不知不觉就完成了8组，而且体感还没那么痛苦。这不是错觉，也不是简单的&quot;意志力被激发&quot;。最新的神经科学研究正在从大脑层面解释这件事——集体奔跑时，你的神经系统确实在经历一场和独自训练截然不同的化学事件。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</description>
+      <itunes:summary>《321跑步科学讲堂》
+
+2024年神经科学研究揭示：跑团里那个带你跑的人，正在改变你的大脑化学反应
+
+2024年神经科学研究揭示：跑团里那个带你跑的人，正在改变你的大脑化学反应你可能有过这种体验：同样是节奏跑，一个人在操场上跑5组就开始打退堂鼓，但跟着一群人跑，不知不觉就完成了8组，而且体感还没那么痛苦。这不是错觉，也不是简单的&quot;意志力被激发&quot;。最新的神经科学研究正在从大脑层面解释这件事——集体奔跑时，你的神经系统确实在经历一场和独自训练截然不同的化学事件。
+
+---
+主讲：道俊教练
+关注公众号「道俊跑无止境」获取更多跑步科学内容</itunes:summary>
+      <itunes:author>道俊教练</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Thu, 01 Oct 2026 08:02:22 +0800</pubDate>
+      <enclosure url="https://github.com/dylanchen2000/wechat-automation/releases/download/podcast/ep039.mp3" length="13287360" type="audio/mpeg"/>
+      <guid isPermaLink="false">321run-ep039</guid>
+      <itunes:episode>39</itunes:episode>
+    </item>
     <item>
       <title>EP038 | 跑量一上来跟腱就疼，你的肌腱可能正在经历一场&quot;沉默的崩溃&quot;</title>
       <description>《321跑步科学讲堂》
